@@ -14,6 +14,7 @@ const findLargeInThree = function (n1, n2, n3) { //1
     return large_val
 
 }   //1
+// new line
 console.log(findLargeInThree(100, 500, 70));
 // from sachin abs
 // scope  ==> block
