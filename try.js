@@ -4,7 +4,8 @@ try{
 var quoient = num/Number
 console.log(quoient);
 }catch(error){
-    console.log(());
+    console.log("error:"+error.sorryerror); 
+
 
 }
 
