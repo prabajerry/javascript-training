@@ -140,5 +140,9 @@ var data = [
 ]
 
 console.log(data[0].word);
+console.log(data[0].meanings[0].partOfSpeech);
+console.log(data[0].meanings[0].definitions[0]);
 
 // partofspeach and definition
+
+
