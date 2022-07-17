@@ -1,10 +1,10 @@
-var num = 0
-var num1 = 3
+var divisible= 0
+var divided = 3
 try{
-var quoient = num/num1
+var quoient = divided/divisibles
 console.log(quoient);
 }catch(error){
-    console.log("error:"+error.sorryerror); 
+    console.log("error:",+ sorrydivideerror); 
 
 
 }
